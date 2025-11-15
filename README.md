@@ -2,21 +2,13 @@
 
 > Small Java console app that behaves like a tiny LMS: builds courses, plugs in legacy quizzes, recommends what to study next and notifies students when they finish modules.
 
-## Demo
 
-> Place a short terminal recording or GIF here once you have it.
 
 ```text
-Student: Alish Akadil
-Course : Advanced Java Programming
+
 Flow   : builder → factory → adapter → bridge → strategy → observer
 ```
 
-```markdown
-![Online Education Platform demo](docs/online-education-demo.gif)
-```
-
-_Recommendation:_ record a short run of `Main` (e.g. with ScreenToGif), save it as `docs/online-education-demo.gif`, and the image above will start working.
 
 ## Tech Stack
 
