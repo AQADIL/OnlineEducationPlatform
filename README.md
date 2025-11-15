@@ -113,8 +113,3 @@ javac -d out -sourcepath src src/com/platform/app/Main.java
 java -cp out com.platform.app.Main
 ```
 
-## Notes
-
-- Ровно 6 паттернов: Builder, Factory, Adapter, Bridge, Strategy, Observer.
-- Весь вывод основан на реальных доменных данных: названия курсов, модулей, стратегий и имена студентов (Alish Akadil, Zhakhangir Muratov, Zhanibek Ibyrhanov).
-- Код написан так, чтобы его удобно было читать как учебный пример – без лишней магии и с понятными именами.
